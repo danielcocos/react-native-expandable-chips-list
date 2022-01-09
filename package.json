@@ -1,6 +1,6 @@
 {
   "name": "react-native-expandable-chips-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react native component that lets you build a dynamic expandable chips list.",
   "main": "index.js",
   "scripts": {
@@ -37,5 +37,5 @@
     "react-native"
   ],
   "author": "Daniel Cocos",
-  "license": "ISC"
+  "license": "MIT"
 }
