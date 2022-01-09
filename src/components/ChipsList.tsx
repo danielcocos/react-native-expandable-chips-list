@@ -91,7 +91,6 @@ const ChipsList: React.FC<ChipsListProps> = ({
 
 const styles = StyleSheet.create({
   container: {
-    marginTop: 100,
     flexDirection: 'row',
     flexWrap: 'wrap',
     paddingHorizontal: 10,
