@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
     fontWeight: '700',
   },
   pill: {
-    paddingHorizontal: 12,
+    paddingHorizontal: 10,
     paddingVertical: 3,
     backgroundColor: 'white',
     borderRadius: 20,
