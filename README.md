@@ -15,7 +15,7 @@ Run `npm install react-native-expandable-chips-list` in your project directory.
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
 
-import ChipsList from './src/components/ChipsList';
+import ChipsList from 'react-native-expandable-chips-list';
 
 const App = () => {
 
