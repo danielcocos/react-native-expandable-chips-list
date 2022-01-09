@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
   },
   pill: {
     paddingHorizontal: 10,
-    paddingVertical: 3,
+    paddingVertical: 5,
     backgroundColor: 'white',
     borderRadius: 20,
     borderWidth: 2,
