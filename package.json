@@ -1,8 +1,9 @@
 {
   "name": "react-native-expandable-chips-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A react native component that lets you build a dynamic expandable chips list.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
